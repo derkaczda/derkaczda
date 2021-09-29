@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a Computer Science student at the Tenical University of Munich, interested
+in Computer Vision and Computer Graphics combined with Deep Learning.
+
 <!--
 **derkaczda/derkaczda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
